@@ -23,3 +23,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # effect
 
 ![TXMap](http://upload-images.jianshu.io/upload_images/1917079-7a85587110f25f8c.gif?imageMogr2/auto-orient/strip)
+
+> 链家接口已无法使用，新接口请自行查找或抓包
