@@ -1,7 +1,7 @@
 const TXMap = {
   map: undefined, // 地图对象
   overlays: [], // 所有覆盖物
-  un: [], // 原始数据
+  sourceData: [], // 原始数据
   listener: undefined, // idle事件监听
 
   // 异步加载获取api
